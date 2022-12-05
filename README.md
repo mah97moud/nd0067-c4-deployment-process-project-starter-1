@@ -16,8 +16,6 @@ The project will also include writing documentation and runbooks covering the op
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
-
-
 ### Dependencies
 
 ```
@@ -70,3 +68,7 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
+# AWS Services
+
+![alt text](https://github.com/mah97moud/nd0067-c4-deployment-process-project-starter-1/blob/master/docs/aws_services.png)

@@ -72,3 +72,21 @@ The e2e tests are using Protractor and Jasmine.
 # AWS Services
 
 ![alt text](https://github.com/mah97moud/nd0067-c4-deployment-process-project-starter-1/blob/master/docs/aws_services.png)
+
+## Bucket website endpoint
+
+follow the link [endpoint](http://mybuckettest123456test.s3-website-us-east-1.amazonaws.com)
+
+## Environment properties
+
+```
+JWT_SECRET = Mysecret
+PORT = 4200
+POSTGRES_DB = postgres
+POSTGRES_HOST = testdev.c6hvpujprmms.us-east-1.rds.amazonaws.com
+POSTGRES_PASSWORD = 1234admin
+POSTGRES_PORT = 5432
+POSTGRES_USERNAME = adminUser
+URL = postgres://adminUser:1234admin@testdev.c6hvpujprmms.us-east-1.rds.amazonaws.com:5432/postgres
+
+```

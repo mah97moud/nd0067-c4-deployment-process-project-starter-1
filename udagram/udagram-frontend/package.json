@@ -5,8 +5,11 @@
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
+    "dev-start": "export NODE_OPTIONS=--openssl-legacy-provider; ng serve",
     "start": "ng serve",
+    "dev-build": "export NODE_OPTIONS=--openssl-legacy-provider; ng build",
     "build": "ng build",
+    "dev-build-start": "npm run dev-build && npm run dev-start",
     "deploy": "npm install -f && npm run build && chmod +x bin/deploy.sh && bin/deploy.sh",
     "test": "ng test --watch=false",
     "lint": "ng lint",

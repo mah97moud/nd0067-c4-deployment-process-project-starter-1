@@ -75,6 +75,10 @@ The e2e tests are using Protractor and Jasmine.
 
 ## Bucket website endpoint
 
+##### Bucket Screen shoot
+
+![Bucket Screen shoot](https://github.com/mah97moud/nd0067-c4-deployment-process-project-starter-1/blob/master/docs/mybucket.png)
+
 follow the link [endpoint](http://mybuckettest123456test.s3-website-us-east-1.amazonaws.com)
 
 ## Environment properties

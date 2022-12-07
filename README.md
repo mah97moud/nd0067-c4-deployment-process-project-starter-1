@@ -89,6 +89,18 @@ follow the link [endpoint](http://mahmoud-bucket-dev.s3-website-us-east-1.amazon
 
 ![Enviremnet Screen shoot](https://github.com/mah97moud/nd0067-c4-deployment-process-project-starter-1/blob/master/docs/mahmoudapienv.png)
 
+##### Circleci Digram
+
+![Circleci Screen shoot](https://github.com/mah97moud/nd0067-c4-deployment-process-project-starter-1/blob/master/docs/circleci.png)
+
+###### Documantaion
+
+1. `By using CI/CD you save time for manual deploy by write scripts `
+2. `Using aws as cloud server have many tools that you need to have to deploy`
+   `like RDS for database , S3 For Buckets and Elastic Beanstalk for api`
+3. `Node js as development language have many packages to develop fast and powerfull`
+4. `Angular as front-end framwork`
+
 ## Environment properties
 
 ```

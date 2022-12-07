@@ -55,7 +55,9 @@ jobs:
       - run:
           name: Deploy App
           command: |
+            echo "Start Frontend Deploy"
             npm run frontend:deploy
+            echo "Start Api Deploy"
             npm run api:deploy
             echo "Finished"
 

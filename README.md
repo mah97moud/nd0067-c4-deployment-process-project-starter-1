@@ -83,7 +83,7 @@ follow the link [endpoint](http://mahmoud-bucket-dev.s3-website-us-east-1.amazon
 
 ##### Circleci Screen shoot
 
-![Circleci Screen shoot](https://github.com/mah97moud/nd0067-c4-deployment-process-project-starter-1/blob/master/docs/mybucket.png)
+![Circleci Screen shoot](https://github.com/mah97moud/nd0067-c4-deployment-process-project-starter-1/blob/master/docs/circleci-screenshot.png)
 
 ##### Enviremnet Screen shoot
 

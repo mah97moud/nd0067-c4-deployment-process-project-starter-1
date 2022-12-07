@@ -56,9 +56,6 @@ jobs:
           name: Deploy App
           command: |
             - npm run frontend:deploy
-            - chmod +x ./set_env.sh
-            - ./set_env.sh
-            # npm run api:deploy
 
 workflows:
   udagram:

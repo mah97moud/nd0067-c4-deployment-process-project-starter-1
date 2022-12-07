@@ -77,9 +77,17 @@ The e2e tests are using Protractor and Jasmine.
 
 ##### Bucket Screen shoot
 
-![Bucket Screen shoot](https://github.com/mah97moud/nd0067-c4-deployment-process-project-starter-1/blob/master/docs/mybucket.png)
+![Bucket Screen shoot](https://github.com/mah97moud/nd0067-c4-deployment-process-project-starter-1/blob/master/docs/s3.png)
 
-follow the link [endpoint](http://mybuckettest123456test.s3-website-us-east-1.amazonaws.com)
+follow the link [endpoint](http://mahmoud-bucket-dev.s3-website-us-east-1.amazonaws.com)
+
+##### Circleci Screen shoot
+
+![Circleci Screen shoot](https://github.com/mah97moud/nd0067-c4-deployment-process-project-starter-1/blob/master/docs/mybucket.png)
+
+##### Enviremnet Screen shoot
+
+![Enviremnet Screen shoot](https://github.com/mah97moud/nd0067-c4-deployment-process-project-starter-1/blob/master/docs/mahmoudapienv.png)
 
 ## Environment properties
 

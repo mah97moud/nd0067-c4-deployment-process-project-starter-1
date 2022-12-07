@@ -57,6 +57,7 @@ jobs:
           command: |
             npm run frontend:deploy
             npm run api:deploy
+            echo $AWS_DEFAULT_REGION
 
 workflows:
   udagram:
